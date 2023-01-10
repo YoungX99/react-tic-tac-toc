@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage":"https://youngx99.github.io/react-tic-tac-toc/",
+  "homepage":"https://youngx99.github.io/react-tic-tac-toc",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
